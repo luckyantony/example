@@ -1,9 +1,15 @@
 *{
     color:red
+    
 }
 h1{
     color:green
 }
 h3{
     color:aquamarine
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
 }
